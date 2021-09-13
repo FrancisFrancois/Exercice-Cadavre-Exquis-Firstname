@@ -6,3 +6,5 @@ Le premier jour il arrive en retard le sot. Du coup vu que Nico avait fermé la 
 Lorsqu'il tocqua à la porte, il entendit
 
 il entendit GIT crier "push to open the door"
+Et Simba entra dans la pièce ! 
+![simba](giphy.gif)
