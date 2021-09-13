@@ -4,3 +4,5 @@
 
 Le premier jour il arrive en retard le sot. Du coup vu que Nico avait fermé la porte il s'est retrouvé coincé dehors.
 Lorsqu'il tocqua à la porte, il entendit
+
+il entendit GIT crier "push to open the door"
